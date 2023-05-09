@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<false/>
+	<key>sites</key>
+	<array>
+		<dict>
+			<key>client_auth_oid</key>
+			<string></string>
+            <key>resource</key>
+			<string>/sc</string>
+			<key>servers</key>
+			<array>
+				<array>
+					<dict>
+						<key>server</key>
+						<string>10.80.122.90</string>
+						<key>server2</key>
+						<string></string>
+                        <key>hostname</key>
+                        <string>Sify5140REM2.adani.com</string>
+						<key>port</key>
+						<integer>10005</integer>
+						<key>cert</key>
+						<string>-----BEGIN CERTIFICATE-----
+MIIDTTCCAjWgAwIBAgIJAJhVVx2WXDO7MA0GCSqGSIb3DQEBBQUAMD0xCzAJBgNVBAYTAkFOMRMw
+EQYDVQQIDApTb21lLVN0YXRlMRkwFwYDVQQKDBBTZWN1cmUgQ29ubmVjdG9yMB4XDTIzMDIwODA0
+MDczMVoXDTQzMDIwMzA0MDczMVowPTELMAkGA1UEBhMCQU4xEzARBgNVBAgMClNvbWUtU3RhdGUx
+GTAXBgNVBAoMEFNlY3VyZSBDb25uZWN0b3IwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCZlsM/i8w6vjL34pmZZ9aX4vpXn8YfnrbsXXwxkGnsgHCYnYsL9rHwpRUDxXV/rJsZa352gbgs
+MZwlMPEnGlyThCFpQxcQktGTlTlQEh5PODAEyKuJu1wHS/Jl41QGjXmCqR/yqwjKVogS7WNp8KjA
+mS89Oewq96a8FcKUR/JqJNnH8hJui4AZtoLUo+DgX2VQ9DSAP6Gzte7Wqj6y8tIbP3RSvZ01SEgg
+/MSF1Xgx3F12Bl8s7x/YeBzVuE3CNCqkjtSBC+bcFgJG5G4QPrqM+Q+tD6GhKLxAhBaDnsr2g178
+v8PIiubYTGlyX2dI3HNtk01V5hVYiRBSKXSgtuV1AgMBAAGjUDBOMB0GA1UdDgQWBBRmFXd5ASbs
+n1hN2PJ6FMZQoA72qzAfBgNVHSMEGDAWgBRmFXd5ASbsn1hN2PJ6FMZQoA72qzAMBgNVHRMEBTAD
+AQH/MA0GCSqGSIb3DQEBBQUAA4IBAQCAu5Mlz5/XyGuRDtFSQKnBtdSqVP19iHw+qJWQs2iYIH+G
+6UfLwUnsGfsFw11AuYeX7MQsDpOckMqsaWqi3kUmTF0mcaNef2SKqD0/LcMvI7n0PH8phUfi4cAZ
+5DdpxcgAK2aCPo8ox07ZIQbVsjJVcr1wM/2V9X78nqx9jsrPf/qFmuqsIhY48jUq5Lym7Xw5LM1C
+rLL1zG5fHqX7cp3vfYnS2lpZ2jqPHD1TEjYiPZp0XjqYghyHHRWD9DbFxppJvxkLImFcWVdAO+1T
+4lso4T5QnGw/kY0VfxkCn6/uxaAupx1TY/fe5Z7sAv9AHgYgeFkE0YENoNKEMz8rApVQ
+-----END CERTIFICATE-----
+</string>
+						<key>reconnect_interval</key>
+						<integer>10</integer>
+						<key>kpa_interval</key>
+						<integer>60</integer>
+						<key>compliance_center_url</key>
+						<string>https://Sify5140REM2.adani.com/status?cc=true&amp;fromsc=true</string>
+					</dict>
+				</array>
+			</array>
+		</dict>
+		
+	</array>
+</dict>
+</plist>
+
